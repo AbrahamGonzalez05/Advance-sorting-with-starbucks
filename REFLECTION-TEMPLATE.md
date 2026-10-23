@@ -1,10 +1,10 @@
 # Caffeine Quest reflection
 
-Name:
+Name: Abraham Gonzalez
 
 ## Five questions before coding
 
-1. Purpose:
+1. Purpose: 
 2. Inputs and outputs:
 3. Constraints:
 4. Edge cases:
@@ -53,13 +53,13 @@ Source consulted (title and URL or course reference):
 
 ## Customization
 
-Feature:
+Feature: NA
 
-Files changed and explanation:
+Files changed and explanation: NA
 
-New-feature test and result:
+New-feature test and result: NA
 
-Default-behavior regression check:
+Default-behavior regression check: NA
 
 ## Algorithm explanation
 
